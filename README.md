@@ -5,9 +5,9 @@ Jester is a one-stop shop for all of your cost tracking needs. By entering their
 ## Screenshots
 <div>
   <img src="https://raw.githubusercontent.com/udaychugh/Jester/main/ss/ss1.JPG">
+  <img src="https://raw.githubusercontent.com/udaychugh/Jester/main/ss/ss2.JPG">
   <img src="https://raw.githubusercontent.com/udaychugh/Jester/main/ss/ss3.JPG">
   <img src="https://raw.githubusercontent.com/udaychugh/Jester/main/ss/ss4.JPG">
-  <img src="https://raw.githubusercontent.com/udaychugh/Jester/main/ss/ss2.JPG">
 </div>
 
 ## Setup:
